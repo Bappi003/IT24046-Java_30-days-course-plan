@@ -8,9 +8,9 @@ class Student {
     }
 }
 
-public class  student{
+public class StudentMain {
     public static void main(String[] args) {
-        Student s1 = new Student();  // object create
+        Student s1 = new Student();
         s1.name = "Bappi";
         s1.age = 22;
 
