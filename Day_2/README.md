@@ -27,7 +27,7 @@ class Employee {
 public class Main {
     public static void main(String[] args) {
         Employee emp = new Employee();
-        emp.setName("Rahim");
+        emp.setName("Bappi");
         emp.setSalary(50000);
 
         System.out.println(emp.getName() + " earns " + emp.getSalary());
